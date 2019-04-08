@@ -12,4 +12,4 @@ Allows a user to upload and see images using authentication
             'HOST': 'localhost',
             'PORT': 5432,
             }
-2- create an empty folder uploads in the same directory where other folders of imagehost app are stored. This folder stores the images of each user
+2-  uploads folder stores the images of each user
