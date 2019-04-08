@@ -13,3 +13,4 @@ Allows a user to upload and see images using authentication
             'PORT': 5432,
             }
 2-  uploads folder stores the images of each user
+3- You need to makemigrations first by running py manage.py makemigrations and then py manage.py migrate
